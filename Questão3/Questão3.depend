@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1566437819 source:c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\main.cpp
+	"SistemaGerenciaFolha.h"
+	"Assalariado.h"
+	"Comissionado.h"
+	"Horista.h"
+
+1566430831 source:c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\src\assalariado.cpp
+	"Assalariado.h"
+
+1566430781 c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\include\assalariado.h
+	"Funcionario.h"
+
+1566435256 c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\include\funcionario.h
+	<iostream>
+
+1566438731 source:c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\src\comissionado.cpp
+	"Comissionado.h"
+
+1566432008 c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\include\comissionado.h
+	"Funcionario.h"
+
+1566438581 source:c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\src\horista.cpp
+	"Horista.h"
+
+1566435908 c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\include\horista.h
+	"Funcionario.h"
+
+1566438486 source:c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1566437120 c:\users\rafa2\onedrive\documentos\ci\programação\carlos\questão3\include\sistemagerenciafolha.h
+	"Funcionario.h"
+

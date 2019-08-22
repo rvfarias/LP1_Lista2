@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1566440632 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão2\main.cpp
+	"Conta.h"
+
+1566442913 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão2\src\conta.cpp
+	"Conta.h"
+	"SaldoNaoDisponivelException.h"
+
+1566443314 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão2\include\conta.h
+	<iostream>
+	"IConta.h"
+	"SaldoNaoDisponivelException.h"
+
+1566442181 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão2\include\iconta.h
+
+1566442913 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão2\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+	<iostream>
+
+1566442929 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão2\include\saldonaodisponivelexception.h
+	<exception>
+	<iostream>
+
