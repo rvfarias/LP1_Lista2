@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1566517474 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\main.cpp
+	<iostream>
+	"RestauranteCaseiro.h"
+
+1566515063 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\src\pedido.cpp
+	"Pedido.h"
+
+1566513643 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\include\pedido.h
+	<iostream>
+	<sstream>
+
+1566514954 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1566513947 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1566515733 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1566514954 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão7\include\mesaderestaurante.h
+	"Pedido.h"
+
