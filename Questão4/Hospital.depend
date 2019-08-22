@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1566509719 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\main.cpp
+	"Cirugiao.h"
+	"Oftamologista.h"
+	"Otorrino.h"
+	"Ginecologista.h"
+
+1566359806 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\src\ginecologista.cpp
+	"Ginecologista.h"
+
+1566359794 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\include\ginecologista.h
+	"Medico.h"
+
+1566509678 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\src\oftamologista.cpp
+	"Oftamologista.h"
+
+1566509678 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\include\oftamologista.h
+	"Medico.h"
+
+1566359823 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\src\otorrino.cpp
+	"Otorrino.h"
+
+1566509678 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\include\otorrino.h
+	"Medico.h"
+
+1566509678 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\src\cirugiao.cpp
+	"Cirugiao.h"
+
+1566509678 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\include\cirugiao.h
+	<iostream>
+	"Medico.h"
+
+1566509485 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\hospital\include\medico.h
+	<iostream>
+
