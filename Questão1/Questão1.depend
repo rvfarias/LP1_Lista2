@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1566429066 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1566429067 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\include\figurageometrica.h
+	<string>
+
+1566429067 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\src\circulo.cpp
+	"Circulo.h"
+
+1566429234 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\include\circulo.h
+	"FiguraGeometrica.h"
+
+1566429066 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\src\quadrado.cpp
+	"Quadrado.h"
+
+1566429195 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1566429067 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\src\triangulo.cpp
+	"Triangulo.h"
+
+1566429195 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1566429103 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão1\main.cpp
+	<iostream>
+	<iomanip>
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
