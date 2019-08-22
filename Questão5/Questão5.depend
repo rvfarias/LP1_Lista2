@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1566509148 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\main.cpp
+	"TestaValidaNumero.h"
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+
+1566508943 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\src\testavalidanumero.cpp
+	"TestaValidaNumero.h"
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+
+1566507663 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\include\testavalidanumero.h
+	<iostream>
+
+1566508914 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\src\valorabaixoexception.cpp
+	"ValorAbaixoException.h"
+
+1566506060 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\include\valorabaixoexception.h
+	<exception>
+
+1566508914 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\src\valoracimaexception.cpp
+	"ValorAcimaException.h"
+
+1566506114 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\include\valoracimaexception.h
+	<exception>
+
+1566508914 source:c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\src\valormuitoacimaexception.cpp
+	"ValorMuitoAcimaException.h"
+
+1566506163 c:\users\rafa2\onedrive\documentos\ci\programação\lp1_lista2\questão5\include\valormuitoacimaexception.h
+	<exception>
+
